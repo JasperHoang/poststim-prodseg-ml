@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+models/
+outputs/
+data/raw/*.xlsx
+data/raw/*.csv
+*.joblib
+.DS_Store
+Thumbs.db
+~$*
