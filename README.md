@@ -63,9 +63,9 @@ The EAGE abstract reports that neural-network pipelines outperformed the tested 
 
 SHAP interpretation highlighted saturation-porosity interactions and gamma-ray-related features as important contributors. See [docs/EAGE2025.md](docs/EAGE2025.md) for the research summary.
 
-## Data availability
+## Released data and trained models
 
-The field dataset, trained model artifacts, and raw well identifiers are intentionally excluded from this public release. They may be added only after data-owner approval and de-identification.
+The original training dataset is available at `data/raw/Data_all_forblindtest.xlsx`. The 12 optimized model pipelines, their explanations, and model-comparison figures are available in `models/`. See [models/README.md](models/README.md) for pipeline naming and safe model-loading guidance.
 
 ## Citation and license
 
